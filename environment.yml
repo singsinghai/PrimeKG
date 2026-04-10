@@ -3,6 +3,7 @@ channels:
   - huggingface
   - pytorch
   - defaults
+  
 dependencies:
   - bcrypt=3.2.0=py310hca72f7f_0
   - beautifulsoup4=4.11.1=py310hecd8cb5_0
